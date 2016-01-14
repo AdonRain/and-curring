@@ -1,0 +1,24 @@
+{
+  "name": "and-curring",
+  "version": "1.0.0",
+  "description": "a better way to get obj's prop without eggache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdonRain/and-curring.git"
+  },
+  "keywords": [
+    "json",
+    "currying",
+    "eggache"
+  ],
+  "author": "AdonRain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdonRain/and-curring/issues"
+  },
+  "homepage": "https://github.com/AdonRain/and-curring#readme"
+}

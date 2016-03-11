@@ -1,6 +1,6 @@
 {
   "name": "and-curring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a better way to get obj's prop without eggache",
   "main": "index.js",
   "scripts": {

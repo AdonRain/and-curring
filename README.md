@@ -2,6 +2,8 @@
 
 a better way to get obj's prop without eggache(蛋疼).
 
+replaced by [and-killer](https://www.npmjs.com/package/and-killer)
+
 ##effect
 
 if you have to do:
